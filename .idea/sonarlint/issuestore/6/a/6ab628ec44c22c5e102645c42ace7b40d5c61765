@@ -1,0 +1,9 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ8ÚşÉÃ¹.
+C
+java:S1481"'Remove this unused "id" local variable.(ÅÑÖ8æÔÌÈ¹.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ8·«ÑÃ¹.
+R
+java:S1854"6Remove this useless assignment to local variable "id".(ÅÑÖ8æÔÌÈ¹.
+N
+java:S1128"1Remove this unused import 'java.util.Comparator'.(î¹ó¹8šæÃ¹.

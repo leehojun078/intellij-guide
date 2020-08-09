@@ -1,0 +1,18 @@
+
+`
+java:S1854">Remove this useless assignment to local variable "fdsfsdfsdf".(Ûü‚øÿÿÿÿ8¼’åê¹.
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(‚¨Ö§8´×¹.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(°©Òİ8¿¢×¹.
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(ê§œıùÿÿÿÿ8½’¹×¹.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(°©Òİ8¾ˆ¡×¹.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(«‹Îõ8™µÍ×¹.
+L
+java:S1481"/Remove this unused "fdsfsdfsdf" local variable.(¦ØÙ8ï®åê¹.
+`
+java:S1854">Remove this useless assignment to local variable "fdsfsdfsdf".(Ûü‚øÿÿÿÿ8¼’åê¹.
+[
+java:S1854">Remove this useless assignment to local variable "fdsfsdfsdf".(¦ØÙ8÷„Ùê¹.
+H
+java:S1172"+Remove this unused method parameter "args".(æüÃĞ8²ôª×¹.
+Š
+java:S4165"hRemove this useless assignment; "fdsfsdfsdf" already holds the assigned value along all execution paths.(Ûü‚øÿÿÿÿ8ï®åê¹.

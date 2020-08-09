@@ -1,0 +1,21 @@
+
+P
+java:S1854"5Remove this useless assignment to local variable "b".(Ê”˜şÿÿÿÿ
+P
+java:S1854"5Remove this useless assignment to local variable "a".(½Êşüÿÿÿÿ
+Q
+java:S1854"6Remove this useless assignment to local variable "cc".(Ê”˜şÿÿÿÿ
+P
+java:S1854"5Remove this useless assignment to local variable "c".(„İËÁøÿÿÿÿ
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(ªş©•
+A
+java:S1481"&Remove this unused "c" local variable.(„İËÁøÿÿÿÿ
+B
+java:S1481"'Remove this unused "cc" local variable.(Ê”˜şÿÿÿÿ
+;
+java:S1659" Declare "cc" on a separate line.(Ê”˜şÿÿÿÿ
+A
+java:S1481"&Remove this unused "a" local variable.(½Êşüÿÿÿÿ
+A
+java:S1481"&Remove this unused "b" local variable.(Ê”˜şÿÿÿÿ
